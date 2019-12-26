@@ -18,4 +18,6 @@ python go.py Rashtrapati Bhawan, President's Estate, New Delhi, Delhi 110004
 
 <br>
 For using address from clipboard, just copy the address and run the python file<br>
+![Clipboard Demo](gif.gif)
+<br>
 Cheers!
